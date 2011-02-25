@@ -19,3 +19,8 @@ Use classpath.
 Make eclipse project and play there.
 Put it all into eclipse.
 
+** Setting up general emacs configuration:
+ Basic configuration useful on generic emacs install.
+ [[file:core.org::*Emacs%20configuration][Core idea]]
+ [[file:.emacs]]
+
