@@ -20,3 +20,6 @@ Let's continue to pretend.
 (At least writing is there, to certain extent :)
 
 
+* Tools
+** Push to github  
+git push origin master
