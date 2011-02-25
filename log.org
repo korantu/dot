@@ -1,0 +1,21 @@
+* Purpose
+Leave notes as I do things and come up with ideas. 
+Text searching might be interesting.
+* Fri Feb 25 11:29:34 SGT 2011
+** Java runtimes organization
+How to organize java runtimes:
+Information needed: jvm/jre, version, SR.
+One option - jvm/jre-[version]-sr[number]
+Sun - jvm/jre-[version]-sun
+find ~/work -name javac
+** JSSE 1.5 compilation and testing
+Verified jsse150.
+Copying does not work, let's check the original version.
+Original version does work. Replacing separate jars might solve the problem.
+Replacing separate class files did not really work, as the jar is objuscated...
+Sent failure report to Audrey.
+More ideas:
+Use classpath.
+Make eclipse project and play there.
+Put it all into eclipse.
+
