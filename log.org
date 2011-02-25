@@ -1,6 +1,17 @@
 * Purpose
 Leave notes as I do things and come up with ideas. 
 Text searching might be interesting.
+* Things to log:
+** Buy small screwdrivers to repair notebook.
+** Answer Sourin
+** Insurance for Lev
+ NTUC
+** Yulia's motorcycle
+ LTA  
+** Bills
+ Starhub
+ Utilities
+** Phantom advertisement
 * Fri Feb 25 11:29:34 SGT 2011
 ** Java runtimes organization
 How to organize java runtimes:
@@ -24,3 +35,6 @@ Put it all into eclipse.
  [[file:core.org::*Emacs%20configuration][Core idea]]
  [[file:.emacs]]
 
+
+ Answerred Nadia/Hari/David
+* Sat Feb 26 00:41:48 SGT 2011
