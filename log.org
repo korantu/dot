@@ -8,10 +8,9 @@ Text searching might be interesting.
  NTUC
 ** Yulia's motorcycle
  LTA  
-** Bills
- Starhub
- Utilities
 ** Phantom advertisement
+** GLFW core
+ Find a way to put small code in dot.
 * Fri Feb 25 11:29:34 SGT 2011
 ** Java runtimes organization
 How to organize java runtimes:
@@ -38,3 +37,16 @@ Put it all into eclipse.
 
  Answerred Nadia/Hari/David
 * Sat Feb 26 00:41:48 SGT 2011
+Go!
+** Bills
+ Starhub
+ Utilities
+ 
+** Заметки
+Лев качался на детской площадке - радовался.
+Взял в заложники шоколадку на автозаправке. Шоколадка была обменяна на пачку кофе.
+Пока кормились в фудкорте, встретили продавца машины. Еле узнал.
+** Things I want to know.
+ - Organize knowledge
+ - GLFW basics
+ - Emacs stuff

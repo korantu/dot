@@ -3,6 +3,8 @@ Everything starts with a point.
 * Focus on iterations.
 * Ideas
 Cross-eye viewing without crossing eyes / prism : [example] http://www.berezin.com/3d/3dprism.htm
+* Sources
+Learn some scheme, yet? http://scheme.com/tspl4/
 * Interesting?
 What is interesting?
 What does it mean?
@@ -19,12 +21,11 @@ Nothing there... memory is failing.
 Let's continue to pretend.
 (At least writing is there, to certain extent :)
 
-
 * Tools
-** Push to github  
+Description and configuration of thools for dots.
+** Github
 git push origin master
-
-** Emacs configuration
+** Emacs
 Minimal configuration runnable on most emacsen. 
 [[file:.emacs][.emacs]]
 
