@@ -6,3 +6,6 @@
 ;; Color settings. 
 (ansi-color-for-comint-mode-on)
 (set-background-color "light grey")
+
+;; Key bindings.
+(global-set-key (kbd "C-z") 'undo)

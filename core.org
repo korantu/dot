@@ -2,6 +2,18 @@
 Everything starts with a point.
 * Focus on iterations.
 * Ideas
+** Storage organization
+The point of dot is to keep all _my_ ideas covered.
+Main things go to core.org
+Referenced from log.org
+Then, certain files with different extensions might go into 
+points/ and be under version control.
+Then, there are things not written by me, but nice to be able to reference them.
+1. External folder
+2. Internal folder
+1 - good as no interference with dot. Bad for reference.
+2 - Good for reference, but will interfere vith version control. (As those things don't need VC)
+** 3D
 Cross-eye viewing without crossing eyes / prism : [example] http://www.berezin.com/3d/3dprism.htm
 * Sources
 Learn some scheme, yet? http://scheme.com/tspl4/
@@ -28,6 +40,6 @@ git push origin master
 ** Emacs
 Minimal configuration runnable on most emacsen. 
 [[file:.emacs][.emacs]]
-
+(global-set-key (kbd "C-z") 'undo)
 
 
