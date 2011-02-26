@@ -34,12 +34,15 @@ Let's continue to pretend.
 (At least writing is there, to certain extent :)
 
 * Tools
-Description and configuration of thools for dots.
+ Description and configuration of tools for dots.
+** Org
+file:/home/kdl/Downloads/concurrency.pdf
 ** Github
 git push origin master
 ** Emacs
 Minimal configuration runnable on most emacsen. 
 [[file:.emacs][.emacs]]
-(global-set-key (kbd "C-z") 'undo)
+Set key: (global-set-key (kbd "C-z") 'undo)
+[[http://xahlee.org/emacs/keyboard_shortcuts.html][Site with keybinding examples]]
 
 
