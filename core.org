@@ -36,13 +36,17 @@ Let's continue to pretend.
 * Tools
  Description and configuration of tools for dots.
 ** Org
-file:/home/kdl/Downloads/concurrency.pdf
+http://orgmode.org/guide
 ** Github
-git push origin master
+[[shell:git push origin master]]
 ** Emacs
 Minimal configuration runnable on most emacsen. 
 [[file:.emacs][.emacs]]
-Set key: (global-set-key (kbd "C-z") 'undo)
+*** Keybindings
+   Set key: (global-set-key (kbd "C-z") 'undo)
 [[http://xahlee.org/emacs/keyboard_shortcuts.html][Site with keybinding examples]]
-
+*** Choose browser
+(setq 
+ browse-url-browser-function 'browse-url-generic 
+ browse-url-generic-program "chromium-browser") 
 
