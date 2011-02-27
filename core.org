@@ -40,6 +40,7 @@ http://orgmode.org/guide
 ** Github
 [[shell:git push origin master]]
 ** Emacs
+https://github.com/matburt/mobileorg-android/wiki/ ?
 Minimal configuration runnable on most emacsen. 
 [[file:.emacs][.emacs]]
 *** Keybindings
