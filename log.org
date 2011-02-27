@@ -53,3 +53,19 @@ Go!
 
 * Sun Feb 27 00:20:10 SGT 2011
 Sourin!!!
+Nope.
+Instead, going woth Lev,
+Accompanying Yulia to spa,
+Shopping, then Trying to help Lev fall asleep.
+And lot's of time lost.
+important finding - 
+ Now that I've got this system for storing results reliably - 
+  It is visible that loosing them is not the reason for acheiving.
+ ToRead:
+Interesting use of makefiles: 
+http://www.ibm.com/developerworks/linux/library/l-boot.html
+Godel theorem (I am not sure I know non-generalized, either)
+http://blog.sigfpe.com/2011/02/generalising-godels-theorem-with.html
+
+* Sun Feb 28 xx:xx:xx SGT 2011
+Do something today!
