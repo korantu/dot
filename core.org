@@ -18,6 +18,7 @@ Cross-eye viewing without crossing eyes / prism : [example] http://www.berezin.c
 * Sources
 Learn some scheme, yet? http://scheme.com/tspl4/
 * Interesting?
+** Rant One:
 What is interesting?
 What does it mean?
 What is "what"?
@@ -33,6 +34,28 @@ Nothing there... memory is failing.
 Let's continue to pretend.
 (At least writing is there, to certain extent :)
 
+** Rant two:
+Read it.
+Why I dont do what I want?
+I hate reading junk.
+I, in a sense, want to write to Sourin.
+I could do many things.
+I don't.
+Please.
+Help.
+Please...
+I can. I really CAN. Do something. 
+I am going to go and sleep now. And think that tomorrow - really, tomorrow, I will be great.
+I will write this small tool for 3D interaction and edetinig.
+With multiresolution. And friends.
+But. And this is a huge "but". I will not be able to do it. I will be reading junk and stuff again. Whinch can not be interesting. Because, it DOES NOT EXIST. Why? maybe prohibition has to be lifted? From this question, altogether. 
+Right, it would not.
+I need to lift it. And go with it.
+Please. Continue. Drifting away. This is better. Whatever you say.
+Nothing. Notice how time slows down when writing things. It does not always do so when writing software, probably because lots of trial and error is involved. Theory says - emacs can help with this train of thought thing.
+Good. Bye.
+See you in another life.
+Feeling of crashing down. In between. Let's focus on feelings.
 * Tools
  Description and configuration of tools for dots.
 ** Org
@@ -51,3 +74,14 @@ Minimal configuration runnable on most emacsen.
  browse-url-browser-function 'browse-url-generic 
  browse-url-generic-program "chromium-browser") 
 
+** GLFW
+Universal Minimal Opengl framework.
+http://www.glfw.org/
+[[ shell:wget http://www.glfw.org/GLFWUsersGuide27.pdf]] [[file:GLFWUsersGuide27.pdf]]
+[[ shell:wget http://www.glfw.org/GLFWReference27.pdf]] file:GLFWReference27.pdf
+http://wiki.glfw.org/wiki/Main_Page
+** Installing on ubuntu:
+sudo apt-get install libglfw-dev libglu1-mesa-dev 
+
+Trying:
+[[file:points/gl/main.cpp::Testing%20ground%20for%20GLFW][Sample glfw]]
