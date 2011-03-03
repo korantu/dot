@@ -67,5 +67,7 @@ http://www.ibm.com/developerworks/linux/library/l-boot.html
 Godel theorem (I am not sure I know non-generalized, either)
 http://blog.sigfpe.com/2011/02/generalising-godels-theorem-with.html
 
-* Sun Feb 28 xx:xx:xx SGT 2011
+* Mon Feb 28 xx:xx:xx SGT 2011
 Do something today!
+The main question is : Why? 
+Shape modeling 

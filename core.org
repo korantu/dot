@@ -2,6 +2,9 @@
 Everything starts with a point.
 * Focus on iterations.
 * Ideas
+** /etc/hosts
+74.125.235.48 livejournal.com reddit.com ycombinator.com lenta.ru xkcd.com bash.org.ru zadolba.li killmepls.ru ithappens.ru svezlo.net det.org.ru slashdot.org fmylife.com
+Does not work on all subdomains.
 ** Storage organization
 The point of dot is to keep all _my_ ideas covered.
 Main things go to core.org
@@ -15,6 +18,8 @@ Then, there are things not written by me, but nice to be able to reference them.
 2 - Good for reference, but will interfere vith version control. (As those things don't need VC)
 ** 3D
 Cross-eye viewing without crossing eyes / prism : [example] http://www.berezin.com/3d/3dprism.htm
+** Possible tools:
+Statistics http://www.rstudio.org
 * Sources
 Learn some scheme, yet? http://scheme.com/tspl4/
 * Interesting?
