@@ -73,3 +73,31 @@ The main question is : Why?
 Shape modeling 
 * Thu Mar  3 01:32:37 SGT 2011
 GLFW started again.
+* Thoughts:
+Log should not always have dates. 
+Dates matter sometimes. When one does not anticipate the use of date,
+it can be determined with git history, anyway. So, simpler would be to omit dates altogether.
+* EKM, beginning:todo:
+Download link: 
+ http://www-933.ibm.com/support/fixcentral/swg/quickorder?parent=ibm~ST~Tapedevicedriversandsoftware&product=ibm/Storage_Tape/Encryption+Key+Manager+EKM&release=1.0&platform=Linux&function=fixId&fixids=EKM&includeRequisites=1&downloadMethod=http&source=fc
+Working folder:
+file:/home/kdl/work/EKM_Training
+[[file:~/work/EKM_Training/EKM_a_userguide.pdf][Install guide]]
+** next:
+Install, try CLI commands.
+* Interview, 8 march.
+Phone interview - 2nd rd (SE Dev) - 
+- Note for next interviewers;
+can be asked in detail:
+- high level design questions & architecture questions.
+- OOP related question analysis and design
+- Operating System questions
+** next: 
+Come up with problems.
+Fair scheduling.
+* JS58
+file:~/work/JS58/readme.org
+Takes too much time, use java profiler:
+(Builtin one)
+java -agentlib:hprof=cpu=samples,interval=20,depth=3 Test
+http://java.sun.com/developer/technicalArticles/Programming/HPROF.html
