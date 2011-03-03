@@ -71,3 +71,5 @@ http://blog.sigfpe.com/2011/02/generalising-godels-theorem-with.html
 Do something today!
 The main question is : Why? 
 Shape modeling 
+* Thu Mar  3 01:32:37 SGT 2011
+GLFW started again.
