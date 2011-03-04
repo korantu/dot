@@ -85,6 +85,7 @@ file:/home/kdl/work/EKM_Training
 [[file:~/work/EKM_Training/EKM_a_userguide.pdf][Install guide]]
 ** next:
 Install, try CLI commands.
+What installation must look like?
 * Interview, 8 march.
 Phone interview - 2nd rd (SE Dev) - 
 - Note for next interviewers;
@@ -101,3 +102,19 @@ Takes too much time, use java profiler:
 (Builtin one)
 java -agentlib:hprof=cpu=samples,interval=20,depth=3 Test
 http://java.sun.com/developer/technicalArticles/Programming/HPROF.html
+Ok, as it is as slow in 1.6 as in 1.5, no regression happened, 
+so we are in the clear.
+* JS55
+** Problem
+EKM, Install in windows.
+Probable cause - training slash.
+[[file:~/work/JS55/readme.org::*Description][details]]
+** Solution
+JAVA_HOME, remove traing slash.
+* Mounting VM disk, finally, good solution:
+in qemu:
+(qemu) hostfwd_add tcp::1445-:445
+then 
+sudo mount.cifs //localhost/C$ /vm/mounted -o port=1445,user=Administrator,password=1q2w3e4r
+Just Works.
+(samba needs to be installed, but no stupid stuff on the vm)
