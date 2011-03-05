@@ -118,3 +118,26 @@ then
 sudo mount.cifs //localhost/C$ /vm/mounted -o port=1445,user=Administrator,password=1q2w3e4r
 Just Works.
 (samba needs to be installed, but no stupid stuff on the vm)
+
+* Phantom for sale.
+http://singaporebikes.com
+** Postings:
+https://post.craigslist.org/manage/2248160431/zvani
+http://www.singaporebikes.com/classifieds/showproduct.php?product=10331
+(Photos in gmail)
+** Text:
+Nice and unusual phantom for sale!
+Running condition and good transport bike.
+Mileage is low, too, as it was underused.
+
+Catch? Yes, COE expiring in August.
+
+Can get non-renewable 5 yr. COE after that in any bike shop.
+
+And the low-low price is discussable, too.
+
+Please let me know if you are interested to buy, see, or talk :) SMS/Call Konst@91007930.
+
+Thanks!
+** Waiting for reply.
+
