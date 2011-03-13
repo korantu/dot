@@ -85,8 +85,20 @@ http://www.glfw.org/
 [[ shell:wget http://www.glfw.org/GLFWUsersGuide27.pdf]] [[file:GLFWUsersGuide27.pdf]]
 [[ shell:wget http://www.glfw.org/GLFWReference27.pdf]] file:GLFWReference27.pdf
 http://wiki.glfw.org/wiki/Main_Page
-** Installing on ubuntu:
+*** Installing on ubuntu:
 sudo apt-get install libglfw-dev libglu1-mesa-dev 
 
 Trying:
 [[file:points/gl/main.cpp::Testing%20ground%20for%20GLFW][Sample glfw]]
+
+* Tips
+** Mount disk of a windows VM
+in qemu:
+(qemu) hostfwd_add tcp::1445-:445
+then 
+sudo mount.cifs //localhost/C$ /vm/mounted -o port=1445,user=Administrator,password=1q2w3e4r
+Just Works.
+(samba needs to be installed, but no stupid stuff on the vm)
+
+hostfwd_add tcp::1445-:445
+then, sudo mount.cifs //localhost/C$ /vm/mounted -o port=1445,user=Administrator,password=1q2w3e4r
