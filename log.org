@@ -141,4 +141,40 @@ Please let me know if you are interested to buy, see, or talk :) SMS/Call Konst@
 Thanks!
 ** Waiting for reply.
 * WebGL explore
-Need t go from the official chronos site.
+Need to go from the official chronos site.
+...
+http://www.khronos.org/webgl/wiki/User_Contributions - frameworks to see.
+http://www.satine.org/research/webkit/webgl/chocolux.html - interesting shader test.
+** Frameworks on top of Web3D:
+http://spidergl.org/
+** This looks cool:
+Blobs, processing in javascript, shaders just for rendering:
+http://webglsamples.googlecode.com/hg/blob/blob.html
+Full fs tracer:
+http://people.mozilla.com/~sicking/webgl/ray.html
+* Sourin
+Guidelines for Submitting an Application for Research Appointment 
+** What To Include
+ 
+Cover Letter
+Suitability for the position - explain how you feel your knowledge, skills and abilities meet the job requirements and how you can contribute to NTU’s research development;
+Scholarship and Awards - highlight any notable awards for and/or professional contributions to learned and social bodies
+Please attach a detailed write up of  the following :
+Public and Professional Service - list major invited addresses, fellowship in professional and learned bodies and professional qualifications;
+List of Research projects accomplished ;
+Research Grants - state the research grants obtained or sought in the last 3 years. For applications where the outcome was successful, briefly describe the project(s), the progress to date, amount of the award and whether you are the Principal Investigator. It would be helpful to indicate any patents obtained (or sought) resulting from your research. State the number of Masters/PhD students you have successfully supervised and indicate 3 of your publications in the last 5 years which you consider to be the most significant;
+Publications (in chronological order) - list your publications, including title, journal and date.   In respect of book published, please indicate name of publisher, place and date and number of pages.  (Please attach reprints of 3 of your best publications; in the case of lengthy reports,  please submit the extracts.
+Documents to be submitted
+A photocopy each of the following documents wherever applicable must be submitted with your application (Please ensure that they are attached to your application form):
+
+All relevant educational certificates including university transcript and degree scroll;
+SAF Certificate of Service (compulsory for male Singaporean/SPR applicants unless exempted from NS in which case a copy of the exemption notice should be attached).
+Testimonials/Certificates of Service of previous employment where available.
+Click here for personal particulars form.
+
+How to submit
+Check that you have included all the above in your application package. Forward your completed application by email, fax or normal mail (by the deadline indicated in the advertisement, if applicable) to:
+
+* Nuclear
+https://morgsatlarge.wordpress.com/2011/03/13/why-i-am-not-worried-about-japans-nuclear-reactors/
+http://khathi.livejournal.com/66370.html
