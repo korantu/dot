@@ -176,5 +176,11 @@ How to submit
 Check that you have included all the above in your application package. Forward your completed application by email, fax or normal mail (by the deadline indicated in the advertisement, if applicable) to:
 
 * Nuclear
-https://morgsatlarge.wordpress.com/2011/03/13/why-i-am-not-worried-about-japans-nuclear-reactors/
+** Explosion:
+Updates:
 http://khathi.livejournal.com/66370.html
+Details:
+https://morgsatlarge.wordpress.com/2011/03/13/why-i-am-not-worried-about-japans-nuclear-reactors/
+* JS59
+[[file:~/work/JS59/readme.org::*Description][details]]
+Hybrid JVM fun.
