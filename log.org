@@ -184,3 +184,16 @@ https://morgsatlarge.wordpress.com/2011/03/13/why-i-am-not-worried-about-japans-
 * JS59
 [[file:~/work/JS59/readme.org::*Description][details]]
 Hybrid JVM fun.
+* Access to virtual hosts:
+** Technicality
+GO THROUGH BSO FIRST
+[userlab0@sg-router0 ~]$ KEY="ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAv3vgXNOTSPcuNt7wwR/diuMmIE+4BBUV/H4lHhm4wGMM+qyN7xI4MHh4wUY/6VKCYo2/Jx80+Q/Wj41lUpJ+VGKhVkyg6kF3amTvEP3zriW6hjtCdSSdCagWuqvvzB0woNMcsrp+gRGMHPtKfFFI2oHaKBcE5EQFGiUoW0z0k9I0z42Kt7UgSH1ud1g4x5/uO1RnIU3Vs7HGCDT7dsAr7rOVGLrR9KZORRCsN2dcO3iOlG1OWvYFe5NImLmBTzv9KdBM/07Sr6Ady4KF6UPQVgWvRxwTZQXGA1syC6zwmEJGjP5TYKV0eui22M3Ylu2WDsoRPfbomXWEhnPvrQikvw== kdl@levinski"
+[userlab0@sg-router0 ~]$ echo $KEY >> ~/.ssh/authorized_keys 
+[userlab0@sg-router0 ~]$
+
+Forwarding, if needed: 
+(11:17:32) kdl@levinski:~$ ssh -L 2222:10.1.16.148:22 userlab0@sg-router0
+
+** Interesting machines
+root@10.1.16.148 - Solaris.
+ 
