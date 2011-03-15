@@ -156,7 +156,7 @@ http://people.mozilla.com/~sicking/webgl/ray.html
 Guidelines for Submitting an Application for Research Appointment 
 ** What To Include
  
-Cover Letter
+** Cover Letter
 Suitability for the position - explain how you feel your knowledge, skills and abilities meet the job requirements and how you can contribute to NTU’s research development;
 Scholarship and Awards - highlight any notable awards for and/or professional contributions to learned and social bodies
 Please attach a detailed write up of  the following :
@@ -164,7 +164,7 @@ Public and Professional Service - list major invited addresses, fellowship in pr
 List of Research projects accomplished ;
 Research Grants - state the research grants obtained or sought in the last 3 years. For applications where the outcome was successful, briefly describe the project(s), the progress to date, amount of the award and whether you are the Principal Investigator. It would be helpful to indicate any patents obtained (or sought) resulting from your research. State the number of Masters/PhD students you have successfully supervised and indicate 3 of your publications in the last 5 years which you consider to be the most significant;
 Publications (in chronological order) - list your publications, including title, journal and date.   In respect of book published, please indicate name of publisher, place and date and number of pages.  (Please attach reprints of 3 of your best publications; in the case of lengthy reports,  please submit the extracts.
-Documents to be submitted
+** Documents to be submitted
 A photocopy each of the following documents wherever applicable must be submitted with your application (Please ensure that they are attached to your application form):
 
 All relevant educational certificates including university transcript and degree scroll;
@@ -181,6 +181,8 @@ Updates:
 http://khathi.livejournal.com/66370.html
 Details:
 https://morgsatlarge.wordpress.com/2011/03/13/why-i-am-not-worried-about-japans-nuclear-reactors/
+Reactor pic:
+http://upload.wikimedia.org/wikipedia/commons/a/ab/BWR_Mark_I_Containment%2C_cutaway.jpg
 * JS59
 [[file:~/work/JS59/readme.org::*Description][details]]
 Hybrid JVM fun.
